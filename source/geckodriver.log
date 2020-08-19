@@ -4,3 +4,6 @@
 JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 115: Error: Unknown callback
 JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
 Exiting due to channel error.
+1596227340672	geckodriver	INFO	Listening on 127.0.0.1:40721
+1596227340884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile14Y1UH"
+Exiting due to channel error.
