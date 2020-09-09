@@ -9,4 +9,4 @@ Sob orientação da Profª. Drª. Dalgiza Andrade Oliveira.
 
 # Agradecimentos
 
-O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil(CAPES)– Código de Financiamento 001.
+O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES)– Código de Financiamento 001.
