@@ -10,18 +10,18 @@ Sob orientação da Profª. Drª. Dalgiza Andrade Oliveira.
 
 # Dependências a serem instaladas para utilizar o e-LIS script
 
-- selenium
+- selenium <br>
 `pip install selenium`
 
 - geckodriver <br>
-Download em baixar: https://github.com/mozilla/geckodriver/releases <br>
+Download em: https://github.com/mozilla/geckodriver/releases <br>
 No linux, extrair e mover o arquivo para /usr/bin <br>
 Abrir o terminal na pasta onde está o arquivo e utilizar o comando `sudo mv geckodriver /usr/bin`
 
-- palettable (cores para o gráfico de idiomas) 
+- palettable (cores para o gráfico de idiomas) <br>
 `pip install palettable`
 
-- wordcloud (para a nuvem de palavras)
+- wordcloud (para a nuvem de palavras)<br>
 `pip install wordcloud`
 
 
