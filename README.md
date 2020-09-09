@@ -14,8 +14,8 @@ Sob orientação da Profª. Drª. Dalgiza Andrade Oliveira.
 `pip install selenium`
 
 - geckodriver 
-Download em baixar: https://github.com/mozilla/geckodriver/releases 
-No linux, extrair e mover o arquivo para /usr/bin 
+Download em baixar: https://github.com/mozilla/geckodriver/releases <br>
+No linux, extrair e mover o arquivo para /usr/bin <br>
 Abrir o terminal na pasta onde está o arquivo e utilizar o comando `sudo mv geckodriver /usr/bin`
 
 - palettable (cores para o gráfico de idiomas) 
