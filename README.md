@@ -4,12 +4,12 @@ O autoarquivamento é o depósito da produção científica, realizado pelo auto
 
 # TL;DR
 
-O ELIScript é um script para coleta e análise de dados do repositório digital EPrints in Library and Information Science (e-LIS http://eprints.rclis.org/). O trabalho foi desenvolvido no Programa de Pós-Graduação em Gestão e Organização do Conhecimento (PPGGOC) da Escola de Ciência da Informação (ECI) na Universidade Federal de Minas Gerais (UFMG).
+O ELIScript é um script para coleta e análise de dados do repositório digital EPrints in Library and Information Science (e-LIS http://eprints.rclis.org/), criado com o intuito de analisar o autoarquivamento da produção científica aberta de Biblioteconomia e Ciência da Informação. O trabalho foi desenvolvido no Programa de Pós-Graduação em Gestão e Organização do Conhecimento (PPGGOC) da Escola de Ciência da Informação (ECI) na Universidade Federal de Minas Gerais (UFMG).
 
 # Responsáveis
 
-Sarah Rúbia de Oliveira Santos - <sarahrubia@ufmg.br> 
-
+Sarah Rúbia de Oliveira Santos - sarahrubia @ ufmg.br
+*Doutoranda e Mestre em Gestão e Organização do Conhecimento*
 Sob orientação da Profª. Drª. Dalgiza Andrade Oliveira.
 
 # Dependências a serem instaladas para utilizar o e-LIS script
