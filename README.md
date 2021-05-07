@@ -32,3 +32,9 @@ Abrir o terminal na pasta onde está o arquivo e utilizar o comando `sudo mv gec
 # Agradecimentos
 
 O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Código de Financiamento 001.
+
+# DOI
+
+<a href="https://zenodo.org/badge/latestdoi/365345896"><img src="https://zenodo.org/badge/365345896.svg" alt="DOI"></a>
+
+
